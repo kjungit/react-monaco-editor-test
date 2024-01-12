@@ -18,7 +18,7 @@ $ npm run dev
 
 ## 개발 조건 및 환경
 - 언어 : `React` `TypeScript`
-- style: `styled-components`
+- style: `styled-components`
 - 프레임워크: `Next.js`
 - 라이브러리: `react-monace-editor`, `react-frame-component`, `monaco-themes`, `recoil`, `recoil-persist`
 - 배포 : `vercel`
